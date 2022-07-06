@@ -1,0 +1,12 @@
+{
+  "name": "credibility_scanner",
+  "version": "1.0.0",
+  "main": "test.js",
+  "repository": "https://github.com/Jray-Tech/Credibility-Scanner-Extension.git",
+  "author": "Onikoyi Ayomide <ayomideonikoyi@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
